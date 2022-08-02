@@ -5,6 +5,8 @@ Support NanoPI Duo2 and BH4DKU's MMDVM Duo2 hat.
 
 Support ONLINE STM32 firmware flash.
 
+Support temperature controled fan (2 wires).
+
 You can download latest FULL image by join QQ group:691235280.
 
 
@@ -31,7 +33,7 @@ Release Notes:
 
 2022.08.02
 
-1) Add temperture controled fan support;
+1) Add temperture controled fan (2 wires) support;
 
 2) Dashboard layout bug fixed.
 
