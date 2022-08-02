@@ -33,7 +33,7 @@ Release Notes:
 
 2022.08.02
 
-1) Add temperture controled fan (2 wires) support;
+1) Add temperature controled fan (2 wires) support;
 
 2) Dashboard layout bug fixed.
 
