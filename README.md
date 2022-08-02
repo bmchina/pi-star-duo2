@@ -27,3 +27,11 @@ rpi-rw
 sudo ./install.sh
 
 
+Release Notes:
+
+2022.08.02
+
+1) Add temperture controled fan support;
+
+2) Dashboard layout bug fixed.
+
