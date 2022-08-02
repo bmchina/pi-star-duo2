@@ -1,4 +1,5 @@
-This is a modified copy from offical Pi-Star 4.1.6 image.
+
+This is a modified copy from Pi-Star 4.1.6 offical image.
 
 Support NanoPI Duo2 and BH4DKU's MMDVM Duo2 hat.
 
@@ -16,8 +17,13 @@ http://www.pistar.uk/beta/Pi-Star_NanoPiAir_V4.1.4_08-Feb-2021.zip
 2)Install patch for NanoPI Duo2
 
 cd /tmp
+
 sudo git clone https://github.com/bmchina/pi-star-duo2.git
+
 cd pi-star-duo2
+
 rpi-rw
+
 sudo ./install.sh
+
 
