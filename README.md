@@ -7,12 +7,14 @@ Support ONLINE STM32 firmware flash.
 
 Support temperature controled fan (2 wires).
 
-You can download latest FULL image by join QQ group:691235280.
+You can download latest FULL image by join QQ group: 691235280.
 
 
 Custom installation ----
 
 1）Download last Pi-Star image for NanoPI Air NEO and write to your TF card
+
+offical image: 
 
 http://www.pistar.uk/beta/Pi-Star_NanoPiAir_V4.1.4_08-Feb-2021.zip
 
